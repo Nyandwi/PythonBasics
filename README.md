@@ -22,7 +22,7 @@ The Intro to Python [notebook](https://github.com/Nyandwi/python_basics/blob/mai
     * 7.1 Map Function
     * 7.2 Filter Function
 
-8. Control Flow
+8. More Useful Python Functions
     * 8.1 List Comprehension
     * 8.2 Enumerate Function
     * 8.3 Zip Function
