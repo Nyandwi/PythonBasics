@@ -14,7 +14,7 @@ The Intro to Python [notebook](https://github.com/Nyandwi/python_basics/blob/mai
 3. Comparison and Logic Operators
 4. Control Flow
     * 4.1 If Condition
-    * 4.2 For Loop]
+    * 4.2 For Loop
     * 4.3 While Loop
 5. Functions
 6. Lambda Functions
