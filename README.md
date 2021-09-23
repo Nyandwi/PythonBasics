@@ -1,6 +1,6 @@
 # Basis of Python
 
-The Intro to Python notebook covers the following:
+The Intro to Python [notebook](https://github.com/Nyandwi/python_basics/blob/main/intro_to_python.ipynb) covers the following:
 
 
 1. Variables, Numbers and Strings
