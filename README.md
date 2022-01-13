@@ -2,7 +2,9 @@
 
 *[Status: Under Revision]*
 
-This is a practical introduction to Python Programming Language. Python is an interpreted, high-level, and general purpose programming language that was designed for efficiency, readability, and simplicity.
+This is a practical introduction to Python Programming Language. The style was inspired by [Chip Huyen Cool Python repo](https://github.com/chiphuyen/python-is-cool). You can find the companion notebook [here](https://github.com/Nyandwi/python_basics/blob/main/intro_to_python.ipynb).
+
+Python is an interpreted, high-level, and general purpose programming language that was designed for efficiency, readability, and simplicity.
 
 Python design philosophy emphasizes simplicity and code readability. There are about 19 Python design guiding principles, the top 5 being:
 
@@ -76,6 +78,7 @@ This introduction will cover the following:
     * [8.2 Enumerate Function](#8-2)
     * [8.3 Zip Function](#8-3)
 
+<a name='1'></a>
 ## 1. Variables, Numbers, and Strings
 
 ### 1.1 Variables
@@ -269,3 +272,8 @@ stri_2 = "The future is great"
 stri_2.replace(' ', '%20')
 ```
 As you can see, strings methods are powerful and can save you time. Remember one of the Python philosophies that we saw in the beginning: `Simple is better than complex`.
+
+
+<a name='2'></a>
+
+## Data Stuctures
