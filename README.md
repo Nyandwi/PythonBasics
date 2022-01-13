@@ -55,8 +55,9 @@ Python is a popular and go-to programming language in different tech communities
 This introduction will cover the following: 
 
 * [1. Variables, Numbers and Strings](#1)
-    * [1.1 Numbers](#1-1)
-    * [1.2 Strings](#1-2)
+    * [1.1 Variables](#1-1)
+    * [1.2 Numbers](#1-2)
+    * [1.2 Strings](#1-3)
 * [2. Data Structures](#2)
     * [2.1 Lists](#2-1)
     * [2.2 Dictionaries](#2-2)
@@ -67,6 +68,7 @@ This introduction will cover the following:
     * [4.1 If Condition](#4-1)
     * [4.2 For Loop](#4-2)
     * [4.3 While Loop](#4-3)
+    * [4.4 Switch](#4-4)
 * [5. Functions](#5)
 * [6. Lambda Functions](#6)
 * [7. Built in functions](#7)
@@ -81,6 +83,7 @@ This introduction will cover the following:
 <a name='1'></a>
 ## 1. Variables, Numbers, and Strings
 
+<a name='1-1'></a>
 ### 1.1 Variables
 
 Below are quick notes about Python variables and other most important things to know before writing actual Python code:
@@ -115,6 +118,8 @@ Guido also agreed it works: https://twitter.com/gvanrossum/status/11267060550507
 int_var = 1
 str_var = 'Hundred'
 ```
+
+<a name='1-2'></a>
 ### 1.2 Numbers
 
 Numbers in Python can either be integers `int` or floats `float`. Integer are real, finite, natural or whole numbers. Take an example: `1`,`2`,`3`,`4` are integers. Floats are numbers that have decimal points such as`4.6`, `6.0`, `7.7`. Note that `4.0` is considered as a float data type too. Recently, Karpathy, AI Director at Tesla posted that [floats are not real](https://twitter.com/karpathy/status/1475317897660612617).
@@ -187,7 +192,7 @@ type(float_var)
 print(1 + 100)
 >>> 101
 ```
-
+<a name='1-3'></a>
 ### 1.3 Strings
 
 Python supports strings. Strings are one of the commonly used and important data types. Most problems involve working with strings. Thus, knowing how to work with strings is an incredible thing.
