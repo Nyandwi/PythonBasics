@@ -3,7 +3,7 @@
 
 *[Status: Under Revision]*
 
-This is a practical introduction to Python Programming Language. The style of this repo was inspired by [Chip Huyen Cool Python repo](https://github.com/chiphuyen/python-is-cool). You can find the companion notebook [here](https://github.com/Nyandwi/python_basics/blob/main/intro_to_python.ipynb).
+This is a practical introduction to Python Programming Language. The style of this repo was inspired by [Chip Huyen Cool Python repo](https://github.com/chiphuyen/python-is-cool). You can find the companion notebook [here](https://github.com/Nyandwi/python_basics/blob/main/python-basics.ipynb).
 
 Python is an interpreted, high-level, and general purpose programming language that was designed for efficiency, readability, and simplicity.
 
