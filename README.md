@@ -7,7 +7,7 @@ This is a practical introduction to Python Programming Language. The style of th
 
 Python is an interpreted, high-level, and general purpose programming language that was designed for efficiency, readability, and simplicity.
 
-Python design philosophy emphasizes simplicity and code readability. There are about 19 Python design guiding principles, the top 5 being:
+Python design philosophy emphasizes simplicity and code readability. There are about 19 Python design guiding principles, the top 8 being:
 
 * Beautiful is better than ugly. 
 * Explicit is better than implicit
@@ -2802,7 +2802,6 @@ list(zipped_name_role)
      ('Jeannette', 'Data Engineer')]
 
 
-
-*This is the end of the lab. The basics of the programming are always good to have, and hopefully this single notebook provided all the necessary things to know about Python.*
+*This is the end. The basics of programming are always good to have, and hopefully this intro provided you with all the necessary things to know about Python.*
 
 ## [BACK TO TOP](#0)
