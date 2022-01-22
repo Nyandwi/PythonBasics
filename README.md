@@ -2,7 +2,7 @@
 # Basic of Python Programming Language
 
 
-This is a practical introduction to Python Programming Language. The style of this repo was inspired by [Chip Huyen Cool Python repo](https://github.com/chiphuyen/python-is-cool). You can find the companion notebook [here](https://github.com/Nyandwi/python_basics/blob/main/python-basics.ipynb). For advanced Python concepts, check [this](https://github.com/Nyandwi/python_advanced)(work in progress)!
+This is a practical introduction to Python Programming Language. The style of this repo was inspired by [Chip Huyen Cool Python repo](https://github.com/chiphuyen/python-is-cool). You can find the companion notebook [here](https://github.com/Nyandwi/python_basics/blob/main/python-basics.ipynb). For advanced Python concepts, check [this repo](https://github.com/Nyandwi/python-advanced)(work in progress)!
 
 Python is an interpreted, high-level, and general purpose programming language that was designed for efficiency, readability, and simplicity.
 
